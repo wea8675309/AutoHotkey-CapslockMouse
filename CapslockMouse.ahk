@@ -8,9 +8,3 @@ send {click down}
 keywait CapsLock
 send {click up}
 return
-
-Shift+CapsLock::
-send {click down}
-keywait CapsLock
-send {click up}
-return
